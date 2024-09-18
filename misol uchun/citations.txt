@@ -1,0 +1,39 @@
+TY  - JOUR
+T1  - “АQLLI ISSIQXONA” BOSHQARISH TIZIMINI MODELLASHTIRISH VA TADQIQ QILISH
+A1  - Jalolov, TS
+A1  - Usmonov, AU
+JO  - Экономика и социум
+IS  - 9 (88)
+SP  - 74
+EP  - 77
+SN  - 2225-1545
+Y1  - 2021
+PB  - ООО «Институт управления и социально-экономического развития»
+ER  - 
+
+
+TY  - JOUR
+T1  - PYTHON INSTRUMENTLARI BILAN KATTA MA’LUMOTLARNI QAYTA ISHLASH
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Educational Research in Universal Sciences
+VL  - 2
+IS  - 11 SPECIAL
+SP  - 320
+EP  - 322
+SN  - 2181-3515
+Y1  - 2023
+ER  - 
+
+
+TY  - JOUR
+T1  - PSIXOLOGIYA YO ‘NALISHIDA TAHSIL OLAYOTGAN TALABALARGA SPSS YORDAMIDA MATEMATIK USULLARNI O ‘RGATISHNING METODIK USULLARI
+A1  - Jalolov, Tursunbek Sadriddinovich
+JO  - Educational Research in Universal Sciences
+VL  - 2
+IS  - 10
+SP  - 323
+EP  - 326
+SN  - 2181-3515
+Y1  - 2023
+ER  - 
+
